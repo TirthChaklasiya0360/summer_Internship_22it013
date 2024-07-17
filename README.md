@@ -90,3 +90,7 @@ Document the Project:
 Update the README.md with usage instructions and details about the project.
 ## Conclusion
 By following this day-by-day plan, you will develop a basic calculator using HTML, CSS, and JavaScript, complete with styling, functionality, and error handling.
+
+
+
+
