@@ -3,7 +3,7 @@
 4th sem summer internship.
 Welcome to my Github repository for the summer internship 2024. This showcase the work done during the internship.
 
-## Week-1
+## Week-1 Basci Calculator
 
 ### Day 1: Project Setup
 Tasks:
