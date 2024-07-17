@@ -1,4 +1,4 @@
-# summer_Internship_22it013
+# summer_Internship2024_22it013
 
 4th sem summer internship.
 Welcome to my Github repository for the summer internship 2024. This showcase the work done during the internship.
